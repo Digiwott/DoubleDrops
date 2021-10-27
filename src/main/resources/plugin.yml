@@ -1,0 +1,7 @@
+name: DoubleDrops
+version: '${project.version}'
+main: me.digiwott.doubledrops.Main
+api-version: 1.17
+authors: [ Digiwott ]
+description: Diamond ores drop 2 diamonds
+website: https://github.com/Digiwott
